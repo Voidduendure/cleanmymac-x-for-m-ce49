@@ -1,4 +1,4 @@
-
+Enhance CleanMyMac X for macOS with instant Helper for CleanMyMac X for macOS - disk-analysis and search-enhancement, the #1 helper. Includes disk-analysis and search-enhancement
 
 
 
